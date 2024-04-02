@@ -1,0 +1,4 @@
+# Functional Requirements
+- Allow users to upload an image
+- Make some AI API call to get image description
+- Output a response containing image description
